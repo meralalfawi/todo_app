@@ -1,6 +1,8 @@
 # todo_app
-
-A new Flutter project.
+An Application that displays to do list of each user where you can add , edit or delete
+your tasks
+Using Provider and Cloud Firebase FireStore
+Provides theming and languages
 
 ## Getting Started
 
